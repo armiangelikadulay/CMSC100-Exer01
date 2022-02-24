@@ -1,0 +1,29 @@
+body {
+    background-image: url("./images/BG.png");
+    text-align: center;
+} 
+
+.Header {
+    text-align: center;
+}
+
+
+.info {
+    background-color: rgb(240, 223, 188);
+    padding: 5px;
+    text-align: center;
+    width: 800px;
+    color: rgb(99, 22, 34);
+    font-size: large;
+    font-family: Arial;
+    margin: 25px;
+    outline: dashed 5px rgb(255, 248, 248);
+    
+    
+}
+
+.prank {
+    color:rgb(88, 47, 47);
+    font-family: Arial;
+    
+}
